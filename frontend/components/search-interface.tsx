@@ -52,10 +52,10 @@ export function SearchInterface() {
 
       const endTime = Date.now();
       const duration = (endTime - startTime) / 1000;
-      
+
       const metadata = {
         totalResults: peopleResp.length,
-        processingTime: `${(duration/60).toFixed(2)} minutes`,
+        processingTime: `${(duration / 60).toFixed(2)} minutes`,
         query: searchQuery,
       };
       setScrapingData({ metadata });
@@ -97,7 +97,7 @@ export function SearchInterface() {
               ) : (
                 <>
                   <Search className="w-4 h-4 mr-2" />
-                  Search & Scrape
+                  Search
                 </>
               )}
             </Button>

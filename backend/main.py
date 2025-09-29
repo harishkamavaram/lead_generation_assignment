@@ -75,7 +75,9 @@ class FastAPIApp:
         )
 
         # CORS
-        origins = ["http://localhost:3000"]
+        origins = ["http://localhost:3000",
+            "https://lead-generation-assignment-n6so2bs7u-harishkamavarams-projects.vercel.app",
+            "https://lead-generation-assignment.vercel.app"]
         # origins = ["*"]
 
         api.add_middleware(
