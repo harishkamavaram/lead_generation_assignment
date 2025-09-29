@@ -1,0 +1,788 @@
+[
+  {
+    "id": "52fabfc2-38a3-4b33-b51e-91a3b3fce66d",
+    "name": "Ian Lewis Jr.",
+    "title": "Full Stack Developer",
+    "location": "Chennai, India",
+    "company": "Instagram",
+    "skills": [
+      "Docker",
+      "Python",
+      "Kubernetes",
+      "SQL",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/9d535bea",
+    "resume_url": "https://example.com/resume/a79d35e5",
+    "score": 69
+  },
+  {
+    "id": "f6b3f2ab-63ee-4de2-b47c-b7e7bd6c61b5",
+    "name": "Ethan Brown ",
+    "title": "Data Scientist",
+    "location": "Pune, India",
+    "company": "Tesla",
+    "skills": [
+      "Kubernetes",
+      "JavaScript",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/62f3d619",
+    "resume_url": "https://example.com/resume/d17bdbd5",
+    "score": 94
+  },
+  {
+    "id": "303300aa-6f73-49a0-b2d9-6bce5cf16023",
+    "name": "George Wilson Sr.",
+    "title": "Python Developer",
+    "location": "Kolkata, India",
+    "company": "IBM",
+    "skills": [
+      "React",
+      "Docker",
+      "MongoDB",
+      "SQL"
+    ],
+    "profile_url": "https://github.com/eebcfcb5",
+    "resume_url": "https://example.com/resume/7071f20b",
+    "score": 92
+  },
+  {
+    "id": "06951323-bf2f-4536-86ba-102fddb9478a",
+    "name": "Diana Patel Jr.",
+    "title": "Frontend Developer",
+    "location": "Hyderabad, India",
+    "company": "Facebook",
+    "skills": [
+      "Python",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "profile_url": "https://github.com/58b40f53",
+    "resume_url": "https://example.com/resume/e7a88001",
+    "score": 68
+  },
+  {
+    "id": "76a16003-8614-4468-846f-9e2d70312063",
+    "name": "Fiona Davis Jr.",
+    "title": "Machine Learning Engineer",
+    "location": "Kolkata, India",
+    "company": "SpaceX",
+    "skills": [
+      "FastAPI",
+      "TypeScript",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "profile_url": "https://github.com/96e3d5ee",
+    "resume_url": "https://example.com/resume/7e67affb",
+    "score": 55
+  },
+  {
+    "id": "361604d0-3b01-4457-b0c5-f96163b809ad",
+    "name": "Alice Smith Sr.",
+    "title": "Machine Learning Engineer",
+    "location": "Pune, India",
+    "company": "Google",
+    "skills": [
+      "AWS",
+      "Django",
+      "React"
+    ],
+    "profile_url": "https://github.com/82cb39bf",
+    "resume_url": "https://example.com/resume/8f6e4cbf",
+    "score": 72
+  },
+  {
+    "id": "3e7a0444-ae9b-4598-b82b-50ae575bed72",
+    "name": "Julia Walker Jr.",
+    "title": "Machine Learning Engineer",
+    "location": "Gurgaon, India",
+    "company": "Microsoft",
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "SQL",
+      "MongoDB",
+      "React"
+    ],
+    "profile_url": "https://github.com/e6124d9c",
+    "resume_url": "https://example.com/resume/305a87c5",
+    "score": 91
+  },
+  {
+    "id": "d80ff84f-1d42-4a90-a7a7-df09ebe8b302",
+    "name": "Diana Patel ",
+    "title": "Frontend Developer",
+    "location": "Gurgaon, India",
+    "company": "IBM",
+    "skills": [
+      "JavaScript",
+      "Kubernetes",
+      "FastAPI",
+      "Docker",
+      "NodeJS"
+    ],
+    "profile_url": "https://github.com/4466db5d",
+    "resume_url": "https://example.com/resume/260694c0",
+    "score": 99
+  },
+  {
+    "id": "3c999418-4c09-44f7-8458-31a1107c6ed1",
+    "name": "Diana Patel Jr.",
+    "title": "Frontend Developer",
+    "location": "Delhi, India",
+    "company": "LinkedIn",
+    "skills": [
+      "Django",
+      "Docker",
+      "MongoDB"
+    ],
+    "profile_url": "https://github.com/c40d7ef4",
+    "resume_url": "https://example.com/resume/7575c834",
+    "score": 68
+  },
+  {
+    "id": "cc1e75c3-290e-49e0-89a0-b3b6738eef0d",
+    "name": "Hannah Clark ",
+    "title": "Backend Developer",
+    "location": "Hyderabad, India",
+    "company": "Amazon",
+    "skills": [
+      "Python",
+      "React",
+      "NodeJS",
+      "Docker"
+    ],
+    "profile_url": "https://github.com/46eadd56",
+    "resume_url": "https://example.com/resume/4cc99e74",
+    "score": 60
+  },
+  {
+    "id": "b2983902-ac36-46b4-bb97-c355f8be2807",
+    "name": "Diana Patel Sr.",
+    "title": "Frontend Developer",
+    "location": "Kolkata, India",
+    "company": "Apple",
+    "skills": [
+      "AWS",
+      "Python",
+      "NodeJS",
+      "TypeScript",
+      "FastAPI"
+    ],
+    "profile_url": "https://github.com/c36b32fd",
+    "resume_url": "https://example.com/resume/6cc282b3",
+    "score": 75
+  },
+  {
+    "id": "7e75c9b4-d8dd-4dec-bd7a-8ddf5e8bdcc0",
+    "name": "George Wilson Sr.",
+    "title": "DevOps Engineer",
+    "location": "Kolkata, India",
+    "company": "LinkedIn",
+    "skills": [
+      "FastAPI",
+      "JavaScript",
+      "Django"
+    ],
+    "profile_url": "https://github.com/01b2e12c",
+    "resume_url": "https://example.com/resume/bac70cf2",
+    "score": 90
+  },
+  {
+    "id": "ecf19a04-eca0-4251-a4b0-136340850f89",
+    "name": "Fiona Davis Jr.",
+    "title": "Backend Developer",
+    "location": "Delhi, India",
+    "company": "Meta",
+    "skills": [
+      "Django",
+      "Kubernetes",
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "profile_url": "https://github.com/62aed044",
+    "resume_url": "https://example.com/resume/23f60bc2",
+    "score": 87
+  },
+  {
+    "id": "5292a45d-e003-4a2e-a291-91620cb3d43d",
+    "name": "George Wilson Jr.",
+    "title": "UI/UX Designer",
+    "location": "Pune, India",
+    "company": "Instagram",
+    "skills": [
+      "Django",
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "profile_url": "https://github.com/7d3d24db",
+    "resume_url": "https://example.com/resume/24877671",
+    "score": 95
+  },
+  {
+    "id": "3c910205-8391-4202-8157-7035eb542149",
+    "name": "Julia Walker Sr.",
+    "title": "DevOps Engineer",
+    "location": "Chennai, India",
+    "company": "Apple",
+    "skills": [
+      "SQL",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/92af98ff",
+    "resume_url": "https://example.com/resume/f8fb727c",
+    "score": 100
+  },
+  {
+    "id": "b3fe89d2-ed97-4603-8f9e-289bfa0c82b7",
+    "name": "Bob Johnson ",
+    "title": "UI/UX Designer",
+    "location": "Delhi, India",
+    "company": "LinkedIn",
+    "skills": [
+      "AWS",
+      "Django",
+      "JavaScript"
+    ],
+    "profile_url": "https://github.com/503c8d69",
+    "resume_url": "https://example.com/resume/5f8d3aa3",
+    "score": 61
+  },
+  {
+    "id": "0d22c041-f085-44ed-be6a-a9fc4ef0c74a",
+    "name": "Fiona Davis Jr.",
+    "title": "Machine Learning Engineer",
+    "location": "Bangalore, India",
+    "company": "Amazon",
+    "skills": [
+      "Docker",
+      "JavaScript",
+      "MongoDB",
+      "SQL",
+      "Python"
+    ],
+    "profile_url": "https://github.com/a1f90cd3",
+    "resume_url": "https://example.com/resume/16ec371d",
+    "score": 74
+  },
+  {
+    "id": "6c7ca883-0226-4ff8-8ea3-5b373f525869",
+    "name": "Hannah Clark Jr.",
+    "title": "Python Developer",
+    "location": "Bangalore, India",
+    "company": "Facebook",
+    "skills": [
+      "React",
+      "TypeScript",
+      "SQL",
+      "NodeJS",
+      "FastAPI"
+    ],
+    "profile_url": "https://github.com/0718ed5d",
+    "resume_url": "https://example.com/resume/6eca0643",
+    "score": 79
+  },
+  {
+    "id": "55f38db6-5cdd-47c6-b65e-bdb44df1e9a7",
+    "name": "Fiona Davis ",
+    "title": "Machine Learning Engineer",
+    "location": "Bangalore, India",
+    "company": "GitHub",
+    "skills": [
+      "React",
+      "Python",
+      "Kubernetes",
+      "FastAPI",
+      "JavaScript"
+    ],
+    "profile_url": "https://github.com/6556ad1c",
+    "resume_url": "https://example.com/resume/6521eb68",
+    "score": 82
+  },
+  {
+    "id": "9d1400d1-34c8-4e1d-9538-8b812c2b2a67",
+    "name": "Hannah Clark Jr.",
+    "title": "DevOps Engineer",
+    "location": "Kolkata, India",
+    "company": "Twitter",
+    "skills": [
+      "SQL",
+      "Docker",
+      "JavaScript",
+      "MongoDB",
+      "NodeJS"
+    ],
+    "profile_url": "https://github.com/34c71a33",
+    "resume_url": "https://example.com/resume/9319d7f0",
+    "score": 64
+  },
+  {
+    "id": "2a45ff2d-df62-4b09-bca9-580e9ea019fb",
+    "name": "Julia Walker Jr.",
+    "title": "Full Stack Developer",
+    "location": "Gurgaon, India",
+    "company": "Twitter",
+    "skills": [
+      "Docker",
+      "JavaScript"
+    ],
+    "profile_url": "https://github.com/0f683cf0",
+    "resume_url": "https://example.com/resume/47c5d5a0",
+    "score": 50
+  },
+  {
+    "id": "caf042e7-581d-4eda-84df-88d8062605ce",
+    "name": "Ian Lewis Sr.",
+    "title": "Full Stack Developer",
+    "location": "Pune, India",
+    "company": "Microsoft",
+    "skills": [
+      "Django",
+      "JavaScript",
+      "Docker"
+    ],
+    "profile_url": "https://github.com/cb6734a4",
+    "resume_url": "https://example.com/resume/2a8a0fc6",
+    "score": 78
+  },
+  {
+    "id": "b646dc1c-48ea-47b5-8568-e8b1d4b37b9f",
+    "name": "Fiona Davis Sr.",
+    "title": "Machine Learning Engineer",
+    "location": "Chennai, India",
+    "company": "LinkedIn",
+    "skills": [
+      "SQL",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/7fce71f9",
+    "resume_url": "https://example.com/resume/9c17a0ee",
+    "score": 85
+  },
+  {
+    "id": "b2c190f3-9e97-47de-b60d-0a3a66a33163",
+    "name": "Ian Lewis ",
+    "title": "Full Stack Developer",
+    "location": "Delhi, India",
+    "company": "Instagram",
+    "skills": [
+      "TypeScript",
+      "Docker",
+      "FastAPI",
+      "React",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/a2a043f3",
+    "resume_url": "https://example.com/resume/818e4fab",
+    "score": 55
+  },
+  {
+    "id": "ebce13a9-59e6-4ac9-b7c3-9b8a40e95b3a",
+    "name": "Julia Walker Jr.",
+    "title": "Backend Developer",
+    "location": "Hyderabad, India",
+    "company": "Facebook",
+    "skills": [
+      "Python",
+      "TypeScript"
+    ],
+    "profile_url": "https://github.com/38f4fcd2",
+    "resume_url": "https://example.com/resume/7c593cf9",
+    "score": 90
+  },
+  {
+    "id": "9a0fb2b3-f319-401e-a417-2fafb856bd15",
+    "name": "George Wilson Jr.",
+    "title": "Backend Developer",
+    "location": "Kolkata, India",
+    "company": "Google",
+    "skills": [
+      "Kubernetes",
+      "SQL",
+      "Python",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/3b299d94",
+    "resume_url": "https://example.com/resume/cca168f9",
+    "score": 67
+  },
+  {
+    "id": "03fd1edf-bba1-47bb-87af-075fa997cfab",
+    "name": "Ethan Brown Jr.",
+    "title": "Backend Developer",
+    "location": "Pune, India",
+    "company": "Tesla",
+    "skills": [
+      "FastAPI",
+      "MongoDB",
+      "Django",
+      "React"
+    ],
+    "profile_url": "https://github.com/b3672907",
+    "resume_url": "https://example.com/resume/abe42245",
+    "score": 74
+  },
+  {
+    "id": "d06a22e9-2f23-4ede-a2bf-86a074404b06",
+    "name": "Bob Johnson ",
+    "title": "Machine Learning Engineer",
+    "location": "Bangalore, India",
+    "company": "GitHub",
+    "skills": [
+      "Django",
+      "Kubernetes",
+      "TypeScript",
+      "FastAPI"
+    ],
+    "profile_url": "https://github.com/d6a72685",
+    "resume_url": "https://example.com/resume/7922030a",
+    "score": 63
+  },
+  {
+    "id": "f53b24dc-31a5-4a5c-b06f-ac0a44bbc0ec",
+    "name": "Diana Patel Jr.",
+    "title": "DevOps Engineer",
+    "location": "Gurgaon, India",
+    "company": "Meta",
+    "skills": [
+      "Kubernetes",
+      "FastAPI",
+      "Docker",
+      "SQL"
+    ],
+    "profile_url": "https://github.com/73687ed8",
+    "resume_url": "https://example.com/resume/0a0ca4f4",
+    "score": 61
+  },
+  {
+    "id": "5385d938-455e-4f2c-99a3-095b4453cee3",
+    "name": "Alice Smith ",
+    "title": "Data Scientist",
+    "location": "Mumbai, India",
+    "company": "Instagram",
+    "skills": [
+      "Django",
+      "AWS",
+      "Kubernetes"
+    ],
+    "profile_url": "https://github.com/a3f126ef",
+    "resume_url": "https://example.com/resume/c18fb745",
+    "score": 67
+  },
+  {
+    "id": "eba12e6b-4b74-490c-ac69-ef387b627fa5",
+    "name": "Julia Walker Jr.",
+    "title": "UI/UX Designer",
+    "location": "Gurgaon, India",
+    "company": "IBM",
+    "skills": [
+      "Kubernetes",
+      "Python",
+      "MongoDB",
+      "NodeJS"
+    ],
+    "profile_url": "https://github.com/01c23d79",
+    "resume_url": "https://example.com/resume/cbf7c233",
+    "score": 50
+  },
+  {
+    "id": "cb26c389-397c-48ec-b37d-0bd0694224e7",
+    "name": "Hannah Clark ",
+    "title": "UI/UX Designer",
+    "location": "Delhi, India",
+    "company": "Microsoft",
+    "skills": [
+      "Django",
+      "Python"
+    ],
+    "profile_url": "https://github.com/3ab3f416",
+    "resume_url": "https://example.com/resume/5b52e400",
+    "score": 60
+  },
+  {
+    "id": "d2ad13e5-7b81-432b-94a9-35a40bad7658",
+    "name": "Ian Lewis ",
+    "title": "Data Scientist",
+    "location": "Hyderabad, India",
+    "company": "Meta",
+    "skills": [
+      "AWS",
+      "Kubernetes"
+    ],
+    "profile_url": "https://github.com/35b806d4",
+    "resume_url": "https://example.com/resume/84fd2600",
+    "score": 61
+  },
+  {
+    "id": "34897fb2-1a16-42e2-9e9c-308072c1c8c5",
+    "name": "Hannah Clark Sr.",
+    "title": "Machine Learning Engineer",
+    "location": "Gurgaon, India",
+    "company": "Microsoft",
+    "skills": [
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "profile_url": "https://github.com/9e68474c",
+    "resume_url": "https://example.com/resume/5a411aa4",
+    "score": 98
+  },
+  {
+    "id": "af956896-e893-4673-abf1-37759642ca5a",
+    "name": "Alice Smith Jr.",
+    "title": "Backend Developer",
+    "location": "Mumbai, India",
+    "company": "GitHub",
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "NodeJS",
+      "React"
+    ],
+    "profile_url": "https://github.com/bba0fe13",
+    "resume_url": "https://example.com/resume/3281e3d6",
+    "score": 56
+  },
+  {
+    "id": "72bb55b2-f954-4156-a224-7c167ebe7668",
+    "name": "Bob Johnson Sr.",
+    "title": "Data Scientist",
+    "location": "Mumbai, India",
+    "company": "Amazon",
+    "skills": [
+      "TypeScript",
+      "Python",
+      "MongoDB",
+      "Kubernetes"
+    ],
+    "profile_url": "https://github.com/7c01c059",
+    "resume_url": "https://example.com/resume/e9e1ff95",
+    "score": 58
+  },
+  {
+    "id": "a7c19e16-0e33-446b-8890-7bede48621db",
+    "name": "Alice Smith ",
+    "title": "Full Stack Developer",
+    "location": "Pune, India",
+    "company": "Amazon",
+    "skills": [
+      "Docker",
+      "TypeScript",
+      "MongoDB",
+      "Python"
+    ],
+    "profile_url": "https://github.com/0f502a78",
+    "resume_url": "https://example.com/resume/26c39a39",
+    "score": 70
+  },
+  {
+    "id": "ea080bd7-75f6-44a8-ac23-cdc047e580ca",
+    "name": "Ian Lewis Sr.",
+    "title": "UI/UX Designer",
+    "location": "Bangalore, India",
+    "company": "SpaceX",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "TypeScript",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/f544258a",
+    "resume_url": "https://example.com/resume/363ff370",
+    "score": 52
+  },
+  {
+    "id": "bf60e675-8606-41ce-9a3f-0bc7c1949211",
+    "name": "Ian Lewis ",
+    "title": "Data Scientist",
+    "location": "Chennai, India",
+    "company": "Google",
+    "skills": [
+      "Django",
+      "TypeScript",
+      "Python"
+    ],
+    "profile_url": "https://github.com/7670cde5",
+    "resume_url": "https://example.com/resume/d7117bc5",
+    "score": 84
+  },
+  {
+    "id": "4cf69e9d-cf07-4a9c-92b7-3fc5c10b447a",
+    "name": "Julia Walker ",
+    "title": "UI/UX Designer",
+    "location": "Mumbai, India",
+    "company": "Microsoft",
+    "skills": [
+      "Python",
+      "React",
+      "Django",
+      "Docker"
+    ],
+    "profile_url": "https://github.com/7373a54d",
+    "resume_url": "https://example.com/resume/4f9ef99b",
+    "score": 64
+  },
+  {
+    "id": "6d6b39c0-6420-41c7-b029-cca480f7d012",
+    "name": "Ian Lewis Jr.",
+    "title": "Machine Learning Engineer",
+    "location": "Delhi, India",
+    "company": "Google",
+    "skills": [
+      "Django",
+      "Python"
+    ],
+    "profile_url": "https://github.com/b45d2109",
+    "resume_url": "https://example.com/resume/fe4d5d21",
+    "score": 78
+  },
+  {
+    "id": "d5779f7f-fabb-4b95-93d8-23e722a16fee",
+    "name": "Hannah Clark Jr.",
+    "title": "Frontend Developer",
+    "location": "Chennai, India",
+    "company": "Meta",
+    "skills": [
+      "AWS",
+      "SQL"
+    ],
+    "profile_url": "https://github.com/253635fc",
+    "resume_url": "https://example.com/resume/5576027f",
+    "score": 96
+  },
+  {
+    "id": "5736390d-a395-498c-9a61-1e23b05aa8d7",
+    "name": "Fiona Davis Jr.",
+    "title": "Machine Learning Engineer",
+    "location": "Pune, India",
+    "company": "Apple",
+    "skills": [
+      "SQL",
+      "MongoDB",
+      "TypeScript",
+      "AWS",
+      "FastAPI"
+    ],
+    "profile_url": "https://github.com/f2bf5dbb",
+    "resume_url": "https://example.com/resume/14fbe94f",
+    "score": 91
+  },
+  {
+    "id": "3b57c3d9-54b0-4ac7-9fcc-2ecbc3d3447d",
+    "name": "Bob Johnson ",
+    "title": "UI/UX Designer",
+    "location": "Gurgaon, India",
+    "company": "Instagram",
+    "skills": [
+      "NodeJS",
+      "SQL",
+      "AWS",
+      "Python",
+      "FastAPI"
+    ],
+    "profile_url": "https://github.com/43408d1a",
+    "resume_url": "https://example.com/resume/a9196406",
+    "score": 84
+  },
+  {
+    "id": "492ac920-2f28-4231-a4ce-81ec40db4253",
+    "name": "Charlie Lee Sr.",
+    "title": "UI/UX Designer",
+    "location": "Pune, India",
+    "company": "Twitter",
+    "skills": [
+      "TypeScript",
+      "Kubernetes",
+      "SQL"
+    ],
+    "profile_url": "https://github.com/b689d071",
+    "resume_url": "https://example.com/resume/0a86e63d",
+    "score": 100
+  },
+  {
+    "id": "1e3e9b87-c1dd-4e6d-9dcf-18d32b585734",
+    "name": "Charlie Lee Jr.",
+    "title": "Python Developer",
+    "location": "Hyderabad, India",
+    "company": "Meta",
+    "skills": [
+      "FastAPI",
+      "Django",
+      "SQL",
+      "Kubernetes",
+      "JavaScript"
+    ],
+    "profile_url": "https://github.com/27013d9c",
+    "resume_url": "https://example.com/resume/8cfe4d49",
+    "score": 54
+  },
+  {
+    "id": "14d20b47-93c3-4bb2-baa8-92e2927297bf",
+    "name": "Alice Smith Jr.",
+    "title": "DevOps Engineer",
+    "location": "Hyderabad, India",
+    "company": "Microsoft",
+    "skills": [
+      "Django",
+      "JavaScript",
+      "TypeScript",
+      "Docker",
+      "Python"
+    ],
+    "profile_url": "https://github.com/b0e10427",
+    "resume_url": "https://example.com/resume/7d496688",
+    "score": 73
+  },
+  {
+    "id": "0a404b57-a333-483a-a43a-ca069315f0d5",
+    "name": "Fiona Davis Jr.",
+    "title": "Data Scientist",
+    "location": "Chennai, India",
+    "company": "Twitter",
+    "skills": [
+      "React",
+      "Kubernetes"
+    ],
+    "profile_url": "https://github.com/c78caf08",
+    "resume_url": "https://example.com/resume/9d1db908",
+    "score": 58
+  },
+  {
+    "id": "ab7fec6c-5137-4e22-a936-0dab55797dc3",
+    "name": "George Wilson Jr.",
+    "title": "Backend Developer",
+    "location": "Kolkata, India",
+    "company": "SpaceX",
+    "skills": [
+      "MongoDB",
+      "Python",
+      "TypeScript",
+      "Docker",
+      "NodeJS"
+    ],
+    "profile_url": "https://github.com/faf699b0",
+    "resume_url": "https://example.com/resume/b7932f76",
+    "score": 85
+  },
+  {
+    "id": "f03dd87a-17aa-4265-bb89-15321f902151",
+    "name": "Ethan Brown Jr.",
+    "title": "Frontend Developer",
+    "location": "Kolkata, India",
+    "company": "Meta",
+    "skills": [
+      "TypeScript",
+      "Django",
+      "React",
+      "SQL",
+      "AWS"
+    ],
+    "profile_url": "https://github.com/c9448ef9",
+    "resume_url": "https://example.com/resume/84800212",
+    "score": 82
+  }
+]
